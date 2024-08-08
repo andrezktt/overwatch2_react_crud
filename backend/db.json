@@ -1,0 +1,11 @@
+{
+   "users" : [{
+      "id": 1,
+      "name": "André Zicatti Leite",
+      "email": "andrezicatti@email.com"
+   }, {
+      "id": 2,
+      "name": "Eraídes de Amorim",
+      "email": "eraides_amorim@email.com"
+   }]
+}
