@@ -1,11 +1,19 @@
 {
-   "users" : [{
+  "users": [
+    {
       "id": 1,
-      "name": "André Zicatti Leite",
+      "name": "André Zicatti",
       "email": "andrezicatti@email.com"
-   }, {
+    },
+    {
       "id": 2,
       "name": "Eraídes de Amorim",
       "email": "eraides_amorim@email.com"
-   }]
+    },
+    {
+      "name": "Vivian Lupi",
+      "email": "vivianlupi@email.com",
+      "id": 3
+    }
+  ]
 }
