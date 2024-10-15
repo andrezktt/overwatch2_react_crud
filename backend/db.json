@@ -1,19 +1,29 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "André Zicatti",
-      "email": "andrezicatti@email.com"
+      "name": "Ashe Deadlock",
+      "email": "ashe.dead@gmail.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Eraídes de Amorim",
-      "email": "eraides_amorim@email.com"
+      "name": "Roadhog",
+      "email": "roadhog@gmail.com",
+      "id": 2
     },
     {
-      "name": "Vivian Lupi",
-      "email": "vivianlupi@email.com",
+      "name": "Illari (Suporte)",
+      "email": "illari@gmail.com",
       "id": 3
+    },
+    {
+      "name": "Ramattra (Tanque)",
+      "email": "ramattra@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Reinhardt Wilhelm",
+      "email": "reinhardt@outlook.com",
+      "id": 5
     }
   ]
 }
